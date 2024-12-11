@@ -1,7 +1,7 @@
 <center><h2>🚀 LightRAG: Simple and Fast Retrieval-Augmented Generation</h2></center>
 
 
-A2
+richtiger A0 br_03
 
 ![LightRAG Image](https://i-blog.csdnimg.cn/direct/567139f1a36e4564abc63ce5c12b6271.jpeg)
 
